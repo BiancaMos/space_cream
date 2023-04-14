@@ -25,9 +25,8 @@ _Technology:_
 
 
 #
-# 👩🏻‍💻 Responsividade em alguns dispositivos diferentes: 
-<br>
-_Responsiveness on a few different devices:_  
+# 👩🏻‍💻 Responsividade em alguns dispositivos diferentes:
+#### _Responsiveness on a few different devices:_ 
 
 📸 Screenshots: Desktop and mobile:
 
