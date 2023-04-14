@@ -23,9 +23,10 @@ _Technology:_
 - [Figma](https://www.figma.com/file/YIwVKGWUbkqe8p93g09wo7/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=0-1&t=5b1iAU6UPKPCu94U-0)
 - [Git & Github](https://github.com/BiancaMos)
 
-# 
 
-# 👩🏻‍💻 Responsividade em alguns dispositivos diferentes:
+#
+# 👩🏻‍💻 Responsividade em alguns dispositivos diferentes: 
+<br>
 _Responsiveness on a few different devices:_  
 
 📸 Screenshots: Desktop and mobile:
