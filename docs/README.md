@@ -45,9 +45,9 @@ _Technology:_
  _April 2023_ 
 #
  ### 🔗 Link: 
- 🇧🇷 [Projeto online aqui!](http://127.0.0.1:5500/index.html)
+ 🇧🇷 [Projeto online aqui!](https://github.com/BiancaMos/space_cream)
  <br> 
- 🇺🇸 [_Project online here!_](http://127.0.0.1:5500/index.html)
+ 🇺🇸 [_Project online here!_](https://github.com/BiancaMos/space_cream)
 
  #
                     Feito com 💜 by BM
