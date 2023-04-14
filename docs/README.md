@@ -9,8 +9,7 @@ _Objective:_
 
 🇺🇸 _In this project, functionalities such as: simple animations of images and texts, use of variables and flexible measurement units were presented.._
 
-📸 <br> 
- Captura de tela Figma:
+📸 Captura de tela Figma:
 <br>
  _Figma Screenshot:_
 ![](../images/figma.png)
